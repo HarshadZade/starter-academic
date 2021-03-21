@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Co-founder"
+  company = "AidBots"
+  company_url = "https://www.aidbots.in/#/"
+  location = "India - France "
+  date_start = "2020-05-09"
+  date_end = ""
+  description = """Co-founder of a startup where we aim to develope autonomous differential drive robot for food and medicine delivery to the patients."""
+
+[[experience]]
   title = "Technical Secretary"
   company = "IvLabs"
   company_url = "http://www.ivlabs.in/"
@@ -27,13 +36,13 @@ date_format = "Jan 2006"
   description = """IvLabs is the Robotics and Innovation Society run by the students of VNIT. I am the Technical Head of the managing council, responsible for resolving technical problems and providing sound technical support to the lab.""" 
   
 [[experience]]
-  title = "Member"
+  title = "Member and Mentor"
   company = "IvLabs"
   company_url = "http://www.ivlabs.in/"
   location = "VNIT, Nagpur"
   date_start = "2018-07-31"
-  date_end = "2019-06-01"
-  description = """Following my passion, I work on various robotics projects in IvLabs and mentor some as well."""
+  date_end = ""
+  description = """I believe that __Teaching is a great way to keep learning.__ So while I work on projects for my own development, I give my best to ensure that my mentees learn everything that I know. These are some of the projects I mentored directly or indirectly. [Link1](http://www.ivlabs.in/rfid_2019.html), [Link2](http://www.ivlabs.in/suntracker.html), [Link3](http://www.ivlabs.in/iot-ambiance.html)."""
 
 [[experience]]
   title = "Summer Intern"
@@ -62,13 +71,13 @@ date_format = "Jan 2006"
 #  date_end = ""
 #  description = """Conduct workshops on topics like micro-controllers, circuit and PCB designing, manual robotics, etc. Actively promote a Technical culture in my institute."""
 
-[[experience]]
-  title = "Project Mentor"
-  company = "IvLabs"
-  company_url = "http://www.ivlabs.in/"
-  location = "VNIT, Nagpur"
-  date_start = "2019-05-01"
-  date_end = ""
-  description = """I believe that __Teaching is a great way to keep learning.__ So while I work on projects for my own development, I give my best to ensure that my mentees learn everything that I know. These are some of the projects I mentored directly or indirectly. [Link1](http://www.ivlabs.in/rfid_2019.html), [Link2](http://www.ivlabs.in/suntracker.html), [Link3](http://www.ivlabs.in/iot-ambiance.html)."""
+#[[experience]]
+#  title = "Project Mentor"
+#  company = "IvLabs"
+#  company_url = "http://www.ivlabs.in/"
+#  location = "VNIT, Nagpur"
+#  date_start = "2019-05-01"
+#  date_end = ""
+#  description = """I believe that __Teaching is a great way to keep learning.__ So while I work on projects for my own development, I give my best to ensure that my mentees learn everything that I know. These are some of the projects I mentored directly or indirectly. [Link1](http://www.ivlabs.in/rfid_2019.html), [Link2](http://www.ivlabs.in/suntracker.html), [Link3](http://www.ivlabs.in/iot-ambiance.html)."""
 
 +++
