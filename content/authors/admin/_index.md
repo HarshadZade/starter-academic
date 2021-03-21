@@ -42,17 +42,17 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/harshad-zade/
-#- icon: google-scholar
- # icon_pack: ai
- # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/HarshadZade
+# - icon: google-scholar
+ # icon_pack: ai
+ # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAA
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,8 +67,9 @@ highlight_name: false
 #- Visitors
 ---
 
-Robotics has always fascinated me, especially electronics and hardware design. It is my hobby to develop and implement new ideas. I aim to contribute to this domain through research and continuous practice.
+How many robots do we see being used in the real world today? It is safe to say that robots have practically taken over the manufacturing and industrial sector, but deploying robots that could meaningfully collaborate with humans in unknown environments remains a challenge. In my opinion, the gap lies in the complex interplay between the software algorithms, which include perception, planning, controls, and the hardware. I care to build robots and implement state-of-the-art algorithms on hardware platforms and bring robots closer to humanity for our benefit. 
+Particularly, I want to tackle the challenges in deploying bio-inspired robots in field robotics and work towards a socially significant problem
 
-I have been working on embedded systems under [Dr. Shital Chiddarwar](http://mec.vnit.ac.in/people/sschiddarwar/) at [IvLabs](http://www.ivlabs.in/) since my sophomore. My newly found interest is in Bio-inspired Robotics in general and Snake robots particularly.
+I have been working under [Dr. Shital Chiddarwar](http://mec.vnit.ac.in/people/sschiddarwar/) at [IvLabs](http://www.ivlabs.in/) since my sophomore year over various problem statements that involved developing novel and robust hardware platforms.
 
-Apart from robotics, I like playing cricket, listening to music and playing tabla. I also spend some in conducting workshops for the freshmen to promote a technical culture in the college.
+Apart from robotics, I play cricket, listen to music and play tabla. I also spend some time conducting workshops for the freshmen to promote a technical culture in the college.

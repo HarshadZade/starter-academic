@@ -6,7 +6,7 @@ title: Dr. Shital S. Chiddarwar
 superuser: false
 
 # Role/position
-role: ASSOCIATE PROFESSOR MECHANICAL ENGINEERING
+role: Associate Professor Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:

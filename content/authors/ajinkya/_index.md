@@ -6,7 +6,7 @@ title: Ajinkya Kamat
 superuser: false
 
 # Role/position
-role: Robotics Consultant
+role: Robotics Consultant, Systemantics
 
 # Organizations/Affiliations
 organizations:

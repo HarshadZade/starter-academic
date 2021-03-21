@@ -6,7 +6,7 @@ title: Rohan Thakker
 superuser: false
 
 # Role/position
-role: Robotics Research Technologist 
+role: Robotics Research Technologist, JPL NASA 
 
 # Organizations/Affiliations
 organizations:

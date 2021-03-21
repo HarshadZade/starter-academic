@@ -6,7 +6,7 @@ title: Anshul Paigwar
 superuser: false
 
 # Role/position
-role: Research Engineer
+role: Research Engineer, INRIA
 
 # Organizations/Affiliations
 organizations:
@@ -63,4 +63,4 @@ user_groups:
 - Mentors
 #- Visitors
 ---
-Harshad is a good student.
+I have worked with Harshad on development of a Mobile Robot to assist health workers in COVID response. He was meticulous in designing and prototyping of the robot while he showed admirable selflessness for the field testing of robot in the hospitals. Harshad is hardworking, eager, quick learner and driven by his passion for robotics. He is also very active and responsive as a team member of Ivlabs.
