@@ -63,4 +63,4 @@ user_groups:
 - Professor
 #- Visitors
 ---
-Harshad is a good student.
+I have worked very closely with Harshad for 2 years on various technical activities. Outcome of this collaboration was two very challenging projects. One was on robotic snake and other was a Sahayak Robot. Harshad is extremely sharp and adapts to any new technical activity quickly in a very effective manner. He can quickly identify challenges of the activity. He is technically very competent, proactive and have great commitment towards work. Moreover, he is approachable and friendly. He is an excellent team player and an awesome team manager.

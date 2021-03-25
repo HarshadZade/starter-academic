@@ -63,4 +63,4 @@ user_groups:
 - Mentors
 #- Visitors
 ---
-Harshad is a good student.
+Harshad has worked with me for around 2 years now where I supervised him for a project on Reconfigurable snake. During my interaction with him I found harshad a very diligent and hard working person who used to work day and night to solve all project related problems. He has also showcased his writing skills where he wrote a research paper at the end of project. His ability to work with hardware and his intuitive understanding of electronics is truly commendable. When all these qualities are coupled with his extraordinary team spirit which he posses, the outcomes are  fruitful. I can assure you that he is a very valuable addition to any institution or workplace.
