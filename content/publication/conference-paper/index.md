@@ -1,7 +1,7 @@
 ---
 title: "OLSAC: Open-Source Library for Swarm Algorithms and Communication"
 authors: 
-- __Harshad Zade__
+- Harshad Zade
 - Mayuresh Bhoyar 
 - Mayuresh Sarode
 - Neha Marne
@@ -9,7 +9,7 @@ authors:
 - Vedant Ranade
 - Ajinkya Kamat
 
-date: ""
+date: "2021-01-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

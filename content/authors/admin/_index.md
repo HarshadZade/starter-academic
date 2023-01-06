@@ -6,27 +6,30 @@ title: Harshad Zade
 superuser: true
 
 # Role/position
-role: Final Year Undergraduate Student
+role: First Year Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Visvesvaraya National Institute of Technology
-  url: "http://vnit.ac.in/"
+- name: Carnegie Mellon University
+  url: "https://www.cmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bio-inspired Robotics
+bio: Robotics
 
 interests:
-- Robotics
-- Bio inspired robotics
-- Embedded systems
+- Field Robotics
+- Bio-inspired Robotics
+- Embedded Systems
 - Sports
 
 education:
   courses:
+  - course: Master of Science (M.S.) in Robotic Systems Development (MRSD)
+    institution: Carnegie Mellon University
+    year: 2023*
   - course: B.Tech. in Metallurgy and Materials 
     institution: Visvesvaraya National Institute of Technology
-    year: 2021*
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,8 +55,8 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
-
+  # link: files/cv.pdf
+  link: https://drive.google.com/file/d/1dCCs5DJmMGYKTKMuo1kmywbUniLop4jc/view?usp=share_link
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -66,10 +69,12 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
+I want to become a full-stack roboticist to create multi-tasking robots that adapt to new environments and positively impact people's everyday lives at homes and workplaces. I am passionate about building robots and implementing state-of-the-art algorithms on hardware platforms in order to bring robots closer to humanity for our benefit. I am particularly interested in tackling the challenges of deploying bio-inspired robots in the field and work towards a socially significant problem. In the long term, I hope to start my own company that uses field robotics to provide solutions to real-world problems such as search and rescue missions in complex environments. 
 
-How many robots do we see being used in the real world today? It is safe to say that robots have practically taken over the manufacturing and industrial sector, but deploying robots that could meaningfully collaborate with humans in unknown environments remains a challenge. In my opinion, the gap lies in the complex interplay between the software algorithms, which include perception, planning, controls, and the hardware. I care to build robots and implement state-of-the-art algorithms on hardware platforms and bring robots closer to humanity for our benefit. 
-Particularly, I want to tackle the challenges in deploying bio-inspired robots in field robotics and work towards a socially significant problem
+<!-- How many robots do we see being used in the real world today? It is safe to say that robots have practically taken over the manufacturing and industrial sector, but deploying robots that could meaningfully collaborate with humans in unknown environments remains a challenge. In my opinion, the gap lies in the complex interplay between the software algorithms, which include perception, planning, controls, and the hardware.  -->
 
-I have been working under [Dr. Shital Chiddarwar](http://mec.vnit.ac.in/people/sschiddarwar/) at [IvLabs](http://www.ivlabs.in/) since my sophomore year over various problem statements that involved developing novel and robust hardware platforms.
+While completing my undergraduate degree, I worked with [Dr. Shital Chiddarwar](http://mec.vnit.ac.in/people/sschiddarwar/) at [IvLabs, the AI and Robotics Lab ](http://www.ivlabs.in/), on a variety of projects focused on creating innovative and robust hardware platforms. In addition to this work, I also led workshops for first-year students to foster a technical culture at my college.
 
-Apart from robotics, I play cricket, listen to music and play tabla. I also spend some time conducting workshops for the freshmen to promote a technical culture in the college.
+
+Outside of work, I am a sports enthusiast and love adventure. I also enjoy listening to music and play tabla. On weekends I go running and biking, plan hikes, road trips, and organizes board game sessions and surprise people with my culinary skills!
+<!-- Apart from robotics, I play cricket, listen to music and play tabla.  -->
