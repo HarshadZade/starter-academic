@@ -32,7 +32,7 @@ tags:
 featured: true
 
 links:
-- name: Link to the manuscript.
+- name: PDF
   url: https://arxiv.org/pdf/2107.01197.pdf
 #url_pdf: https://drive.google.com/file/d/1pntRZ1poM7AIyWOuAGiP44aavWxrZPY8/view?usp=sharing
 # url_code: '#https://github.com/Swarm2/swarm'

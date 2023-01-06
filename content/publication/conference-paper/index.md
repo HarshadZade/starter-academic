@@ -34,7 +34,7 @@ tags:
 featured: true
 
 links:
-- name: Link to the manuscript.
+- name: PDF
   url: https://drive.google.com/file/d/1pntRZ1poM7AIyWOuAGiP44aavWxrZPY8/view?usp=sharing
 #url_pdf: https://drive.google.com/file/d/1pntRZ1poM7AIyWOuAGiP44aavWxrZPY8/view?usp=sharing
 url_code: '#https://github.com/Swarm2/swarm'

@@ -69,7 +69,7 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
-I want to become a full-stack roboticist to create multi-tasking robots that adapt to new environments and positively impact people's everyday lives at homes and workplaces. I am passionate about building robots and implementing state-of-the-art algorithms on hardware platforms in order to bring robots closer to humanity for our benefit. I am particularly interested in tackling the challenges of deploying bio-inspired robots in the field and work towards a socially significant problem. In the long term, I hope to start my own company that uses field robotics to provide solutions to real-world problems such as search and rescue missions in complex environments. 
+I aspire to become a full-stack roboticist to create multi-tasking robots that adapt to new environments and positively impact people's everyday lives at homes and workplaces. I am particularly interested in tackling the challenges of deploying bio-inspired robots in the field and work towards a socially significant problem. In the long term, I hope to start my own company that uses field robotics to provide solutions to real-world problems such as search and rescue missions in complex environments. 
 
 <!-- How many robots do we see being used in the real world today? It is safe to say that robots have practically taken over the manufacturing and industrial sector, but deploying robots that could meaningfully collaborate with humans in unknown environments remains a challenge. In my opinion, the gap lies in the complex interplay between the software algorithms, which include perception, planning, controls, and the hardware.  -->
 

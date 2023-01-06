@@ -38,7 +38,7 @@ tags:
 featured: true
 
 links:
-- name: Link to the manuscript.
+- name: PDF
   url: https://hal.archives-ouvertes.fr/hal-03476539/document
 #url_pdf: https://drive.google.com/file/d/1pntRZ1poM7AIyWOuAGiP44aavWxrZPY8/view?usp=sharing
 # url_code: '#https://github.com/Swarm2/swarm'

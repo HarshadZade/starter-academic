@@ -101,9 +101,18 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "Trekking"
+  content = "I love going on hikes and treks!"
+  align = "left"  # Choose `center`, `left`, or `right`.
+
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "trek.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Technical Fest of VNIT"
   content = "AXIS is the annual technical festival of VNIT where students organize events, workshops and guest lecturers to impart technical expertise. I was a part of the __Logistics Team of AXIS-2020__."
-  align = "left"
+  align = "right"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "axis2.png"  # Image path relative to your `static/img/` folder.
@@ -117,7 +126,7 @@ height = ""
 [[item]]
   title = "Cultural Fest of VNIT"
   content = "Aarohi is the most anticipated youth event of the year in Central India, organized by the students of VNIT. I have been a __Core member__ of the organising comitee and have actively participated in bringing the Sponsors."
-  align = "right"
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "aarohi.jpg"  # Image path relative to your `static/img/` folder.
@@ -131,7 +140,7 @@ height = ""
 [[item]]
   title = "Hosted Cultural Nite"
   content = "Cultural Nite is a non-profit Charity event. I __hosted__ the evening where Mr.Hrishikesh Ranade gave a soulful performance and the proceedings of the event were donated to Akhil Bharatiya Kalyankari Bahudeshiya Sansthan, an NGO that strives to help and support the lives of Mentally Challenged Children."
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "cn.jpg"  # Image path relative to your `static/img/` folder.
@@ -140,7 +149,7 @@ height = ""
 [[item]]
   title = "Tabla"
   content = "I like playing table in my leisure time."
-  align = "left"  # Choose `center`, `left`, or `right`.
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "tabla.jpg"  # Image path relative to your `static/img/` folder.

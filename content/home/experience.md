@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company_url = "https://crablab.gatech.edu/"
   location = "Atlanta, USA"
   date_start = "2021-05-01"
-  date_end = "2024-04-01"
-  description = """I was primarily involved in creating simulations of robots in the lab, including a kid-sized biped robot and a C-leg quadruped robot, for use on complex undulating terrain. These simulations have been useful for testing algorithms and conducting experiments more efficiently. [Video](https://drive.google.com/file/d/1szxe7NGseJj5IjHYq_LemnsxXdLn9KbV/view)"""
+  date_end = "2022-04-01"
+  description = """I was primarily involved in creating simulations of robots in the lab, including a kid-sized biped robot and a C-leg quadruped robot, for use on complex undulating terrain. These simulations have been useful for testing algorithms and conducting experiments more efficiently. [[Video]](https://drive.google.com/file/d/1szxe7NGseJj5IjHYq_LemnsxXdLn9KbV/view)"""
 
 [[experience]]
   title = "Co-founder"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "India - France "
   date_start = "2020-04-09"
   date_end = "2021-08-01"
-  description = """Co-founder of a startup where we aim to develope autonomous differential drive robot for food and medicine delivery to the patients. [Video](https://www.youtube.com/watch?v=pSqHcjDWims&feature=youtu.be)"""
+  description = """We aim to develope autonomous differential drive robot for food and medicine delivery to the patients. [[Video]](https://www.youtube.com/watch?v=pSqHcjDWims&feature=youtu.be)"""
 
 [[experience]]
   title = "Technical Secretary"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "VNIT, Nagpur"
   date_start = "2019-06-02"
   date_end = "2021-05-01"
-  description = """IvLabs is the Robotics and Innovation Society run by the students of VNIT. I was the Technical Head of the managing council, responsible for resolving technical problems and providing sound technical support to the lab.""" 
+  description = """As Technical Head of the managing council for IvLabs (the Robotics and Innovation Society at VNIT), I was responsible for managing the inventory and implementing efficient processes for utilizing the components in the lab.""" 
   
 [[experience]]
   title = "Member and Mentor"
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   location = "VNIT, Nagpur"
   date_start = "2018-07-31"
   date_end = "2021-05-01"
-  description = """I believe that __Teaching is a great way to keep learning.__ So while I work on projects for my own development, I give my best to ensure that my mentees learn everything that I know. These are some of the projects I mentored. [Link1](http://www.ivlabs.in/rfid_2019.html), [Link2](http://www.ivlabs.in/suntracker.html), [Link3](http://www.ivlabs.in/iot-ambiance.html)."""
+  description = """I believe that __Teaching is a great way to keep learning.__ So while I work on projects for my own development, I give my best to ensure that my mentees learn everything that I know. These are some of the projects I mentored. [[Link1]](http://www.ivlabs.in/rfid_2019.html), [[Link2]](http://www.ivlabs.in/suntracker.html), [[Link3]](http://www.ivlabs.in/iot-ambiance.html)."""
 
 [[experience]]
   title = "Summer Intern"
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   location = "VNIT, Nagpur"
   date_start = "2018-05-01"
   date_end = "2018-07-31"
-  description = """Worked on a project __Laser Security System__ as an intern. For more details of the project refer: [Link](https://www.ivlabs.in/laser-security.html)"""
+  description = """Developed a __Laser Security System__ as an intern. For more details of the project refer: [[Link]](https://www.ivlabs.in/laser-security.html)"""
 
 #[[experience]]
 #  title = "Sports Secretary"

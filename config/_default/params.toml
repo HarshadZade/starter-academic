@@ -89,15 +89,15 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "harshadzade09@gmail.com"
-phone = "+91 7066333800"
+phone = "+1 4127082020"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "IvLabs, Seminar Hall 41, New Academic Building, VNIT", city = "Nagpur", region = "Maharashtra, India", postcode = "440010", country = "India", country_code = "IN"}
+address = {street = "The Robotics Institute, 5000 Forbes Ave", city = "Pittsburgh", region = "Pennsylvania", postcode = "15213", country = "USA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "21.123622", longitude = "79.049660"}
+coordinates = {latitude = "40.4432", longitude = "79.9428"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
